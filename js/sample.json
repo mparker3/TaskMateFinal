@@ -1,0 +1,41 @@
+[
+    {
+        "priority": 1,
+        "task_desc": "Task #1",
+        "task_duration": 27,
+        "task_importance": 1,
+        "task_deadline": "09/12/2016"
+    },
+    
+    {
+        "priority": 2,
+        "task_desc": "Task #2",
+        "task_duration": 5,
+        "task_importance": 3,
+        "task_deadline": "12/15/2016"
+    },
+    
+    {
+        "priority": 3,
+        "task_desc": "Task #3",
+        "task_duration": 90,
+        "task_importance": 2,
+        "task_deadline": "10/17/2016"
+    },
+    
+    {
+        "priority": 4,
+        "task_desc": "Task #4",
+        "task_duration": 20,
+        "task_importance": 2,
+        "task_deadline": "10/20/2016"
+    },
+    
+    {
+        "priority": 5,
+        "task_desc": "Task #5",
+        "task_duration": 150,
+        "task_importance": 1,
+        "task_deadline": "09/17/2016"
+    }
+]
