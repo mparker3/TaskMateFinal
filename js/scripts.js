@@ -9,7 +9,7 @@ $(document).ready(function(){
         
     });
     
-    $.getJSON("js/sample.json", function(data){
+    $.getJSON("/tasks", function(data){
         top5 = ["#task1", "#task2", "#task3", "#task4", "#task5"];
         importance = ["style = 'color: gray; font-weight:thin;'>Low Importance", "style = 'color: black;'>Medium Importance", "style = 'color:red; font-weight:bold;'>High Importance"]
         i=0;
